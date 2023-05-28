@@ -1,0 +1,15 @@
+C:\Users\ofcdo\devc#3\ROlagemDeDados1\RolagemDeDados\bin\Debug\net6.0\RolagemDeDados.exe
+C:\Users\ofcdo\devc#3\ROlagemDeDados1\RolagemDeDados\bin\Debug\net6.0\RolagemDeDados.deps.json
+C:\Users\ofcdo\devc#3\ROlagemDeDados1\RolagemDeDados\bin\Debug\net6.0\RolagemDeDados.runtimeconfig.json
+C:\Users\ofcdo\devc#3\ROlagemDeDados1\RolagemDeDados\bin\Debug\net6.0\RolagemDeDados.dll
+C:\Users\ofcdo\devc#3\ROlagemDeDados1\RolagemDeDados\bin\Debug\net6.0\RolagemDeDados.pdb
+C:\Users\ofcdo\devc#3\ROlagemDeDados1\RolagemDeDados\obj\Debug\net6.0\RolagemDeDados.csproj.AssemblyReference.cache
+C:\Users\ofcdo\devc#3\ROlagemDeDados1\RolagemDeDados\obj\Debug\net6.0\RolagemDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofcdo\devc#3\ROlagemDeDados1\RolagemDeDados\obj\Debug\net6.0\RolagemDeDados.AssemblyInfoInputs.cache
+C:\Users\ofcdo\devc#3\ROlagemDeDados1\RolagemDeDados\obj\Debug\net6.0\RolagemDeDados.AssemblyInfo.cs
+C:\Users\ofcdo\devc#3\ROlagemDeDados1\RolagemDeDados\obj\Debug\net6.0\RolagemDeDados.csproj.CoreCompileInputs.cache
+C:\Users\ofcdo\devc#3\ROlagemDeDados1\RolagemDeDados\obj\Debug\net6.0\RolagemDeDados.dll
+C:\Users\ofcdo\devc#3\ROlagemDeDados1\RolagemDeDados\obj\Debug\net6.0\refint\RolagemDeDados.dll
+C:\Users\ofcdo\devc#3\ROlagemDeDados1\RolagemDeDados\obj\Debug\net6.0\RolagemDeDados.pdb
+C:\Users\ofcdo\devc#3\ROlagemDeDados1\RolagemDeDados\obj\Debug\net6.0\RolagemDeDados.genruntimeconfig.cache
+C:\Users\ofcdo\devc#3\ROlagemDeDados1\RolagemDeDados\obj\Debug\net6.0\ref\RolagemDeDados.dll
